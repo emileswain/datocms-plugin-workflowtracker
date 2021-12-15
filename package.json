@@ -1,6 +1,6 @@
 {
   "name": "datocms-plugin-workflowtracker",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "homepage": "https://github.com/emileswain/datocms-plugin-workflowtracker",
   "description": "Visualise workflow progress more prominently in record editor",
   "keywords": [
